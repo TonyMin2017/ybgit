@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ybgit:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ybgit.war">
+      <element id="artifact" artifact-name="ybgit:war exploded" />
+    </root>
+  </artifact>
+</component>
